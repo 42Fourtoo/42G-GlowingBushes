@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[42G]Glowing Bushes</name>
+    <author>Fourtoo[42G]</author>
+    <supportedVersions>
+        <li>1.0</li>
+        <li>1.1</li>
+        <li>1.2</li>
+        <li>1.3</li>
+    </supportedVersions>
+	    <description>
+		Gives Harvestable berries a nice glow.
+		
+		Strawberry Bushes
+		Berry Bushes
+		Healroot
+		Ambrosia
+		Heat resistant Ambrosia - Alpha Animals	
+		
+		Glow size can be changed by a simple XML edit.
+		
+			
+		This is an extension to [SYR]Glowing Healroot which I have included in this mod.
+		<url>https://ludeon.com/forums/index.php?topic=43449</url>
+		</description>
+    <packageId>fourtoo.glowingbush</packageId>
+</ModMetaData>
